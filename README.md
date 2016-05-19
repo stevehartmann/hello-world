@@ -1,2 +1,4 @@
 # hello-world
-One sweet day for a repo
+
+Today is past but not for long,
+Tomorrow is here but not before.
