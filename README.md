@@ -1,5 +1,4 @@
 # hello-world
-One sweet day for a repo
 
-Today was today but yesterday no more,
+Today is past but not for long,
 Tomorrow is here but not before.
